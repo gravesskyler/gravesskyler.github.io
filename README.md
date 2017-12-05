@@ -10,6 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project
 
-![picture_title](picture filename?raw=true "Optional Title")
+![picture_title](https://github.com/gravesskyler/gravesskyler.github.io/blob/master/Graves.PNG?raw=true "Optional Title")
 
 ***
+
