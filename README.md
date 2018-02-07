@@ -14,3 +14,7 @@ This is my Camera Effects Project
 
 ***
 
+This is my Storyscape Project.
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/gravesskyler77/crime-sean" ></script>
+
